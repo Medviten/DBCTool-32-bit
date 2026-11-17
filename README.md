@@ -27,7 +27,7 @@ Clone the repository and build with Go:
 
 ``` bash
 git clone https://github.com/Medviten/DBCTool-32-bit.git --recurse
-cd dbctool
+cd DBCTool-32-bit
 go build -C src -o dbctool
 ```
 
